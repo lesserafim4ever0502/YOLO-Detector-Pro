@@ -103,5 +103,5 @@ python main.py
 
 ## 作者
 
-**李锦锐** (Li Jinrui)
-GitHub: [li-jinrui](https://github.com/li-jinrui)
+**Lee jimmy**
+GitHub: [lesserafim4ever0502/YOLO-Detector-Pro](https://github.com/lesserafim4ever0502/YOLO-Detector-Pro)

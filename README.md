@@ -102,6 +102,5 @@ python main.py
 This project is licensed under the MIT License.
 
 ## Author
-
-**Li Jinrui** (李锦锐)
-GitHub: [li-jinrui](https://github.com/li-jinrui)
+**Lee jimmy**
+GitHub: [lesserafim4ever0502/YOLO-Detector-Pro](https://github.com/lesserafim4ever0502/YOLO-Detector-Pro)
